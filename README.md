@@ -1,5 +1,7 @@
 ## 👋 Hello!
-I am a software development student @ SAIT. 
+
+I am a 22 year old junior software developer from Saskatchewan, living in Calgary.
+Python | C# | Java | HTML | CSS | JS | TS | React | React-Native | Next.js | Oracle SQLPlus | MySQL
 
 <!--
 **E-VanDeWoestyne/E-VanDeWoestyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
