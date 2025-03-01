@@ -1,6 +1,9 @@
-## 👋 Hello!
+# 👋 Hello!
 
 I am a 22 year old junior software developer from Saskatchewan, living in Calgary.
+
+## 🛠️ Languages, Frameworks, and Tools
+
 Python | C# | Java | HTML | CSS | JS | TS | React | React-Native | Next.js | Oracle SQLPlus | MySQL
 
 <!--
