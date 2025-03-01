@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hello!
+I am a software development student @ SAIT. 
 
 <!--
 **E-VanDeWoestyne/E-VanDeWoestyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
