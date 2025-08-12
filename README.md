@@ -1,3 +1,1 @@
-# 👋 Hello!
-
-Student 50% through Bachelor of Technology in Software Development
+### Software Development + Bachelor of Technology @ SAIT
